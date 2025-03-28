@@ -6,7 +6,9 @@ switch(c)
 	 printf("added new line")
 	 }
   case 2:{
-         printf("Btech CSE")}
+         printf("Btech CSE")
+         printf("added new line")
+	 }
 
   case 3:{
          printf(" BCA ")}

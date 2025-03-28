@@ -11,7 +11,9 @@ switch(c)
 	 }
 
   case 3:{
-         printf(" BCA ")}
+         printf(" BCA ")
+	 printf("added new line")
+}
 
   case 4:{
          printf("Btech Bio-Tech")}

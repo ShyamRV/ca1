@@ -1,1 +1,7 @@
-First line of text
+switch(c)
+
+{
+  case 1:{
+	 printf("Btech AIML")}
+
+}

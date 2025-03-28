@@ -13,5 +13,6 @@ switch(c)
 	 }
 
   case 4:{
-         printf("Btech Bio-Tech")}
+         printf("Btech Bio-Tech")
+	 }
 }

@@ -3,6 +3,7 @@ switch(c)
 {
   case 1:{
 	 printf("Btech AIML")
+	 printf("added new line")
 	 }
   case 2:{
          printf("Btech CSE")}
